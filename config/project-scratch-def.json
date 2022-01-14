@@ -1,0 +1,13 @@
+{
+  "orgName": "Smartbytes",
+  "edition": "Enterprise",
+  "features": ["EnableSetPasswordInApi","CPQ"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
