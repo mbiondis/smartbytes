@@ -1,0 +1,10 @@
+Date update,Child Id,Child Lookup Id Field,Child Lookup Reference Field,Child SObject,Parent SObject,Parent ExternalId Field,Missing expected parent ExternalID value
+2022-01-21  10:55:28.277,0Mo2600000000UmCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X5CAI
+2022-01-21  10:55:28.277,0Mo2600000000UnCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X5CAI
+2022-01-21  10:55:28.277,0Mo2600000000UhCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X0CAI
+2022-01-21  10:55:28.277,0Mo2600000000UiCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X0CAI
+2022-01-21  10:55:28.277,0Mo2600000000UwCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X5CAI
+2022-01-21  10:55:28.277,0Mo2600000000UcCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X0CAI
+2022-01-21  10:55:28.277,0Mo2600000000USCAY,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000WvCAI
+2022-01-21  10:55:28.277,0Mo2600000000UXCAY,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000WvCAI
+2022-01-21  10:55:28.277,0Mo2600000000UrCAI,ConsumptionScheduleId,ConsumptionSchedule.Id,ConsumptionRate,ConsumptionSchedule,Id,0Mh2600000000X5CAI

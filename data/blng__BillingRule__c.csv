@@ -1,0 +1,6 @@
+Id,Name,blng__Active__c,blng__InitialBillingTrigger__c,blng__PartialPeriodTreatment__c,blng__PeriodTreatmentForBTDO__c,blng__GenerateInvoices__c
+a1T2600000AaOEqEAN,Invoice - Subscription,true,Order Product Activation Date,Separate,Exclude Billing Day of Month,Yes
+a1T2600000AaNeEEAV,Invoice - Milestone Billing,true,Order Product Activation Date,Separate,Exclude Billing Day of Month,Yes
+a1T2600000AaNe9EAF,Invoice - Standard,true,Order Product Activation Date,Separate,Exclude Billing Day of Month,Yes
+a1T2600000AaOIFEA3,Invoice - Usage,true,Order Product Activation Date,Separate,Exclude Billing Day of Month,Yes
+a1T2600000AaNeJEAV,Invoice - Services,true,Order Product Activation Date,Separate,Exclude Billing Day of Month,Yes

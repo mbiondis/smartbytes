@@ -1,0 +1,38 @@
+Id,IsActive,Name,Product2Id,Pricebook2Id,UnitPrice,UseStandardPrice,Pricebook2.Name,Product2.Name
+01u2600000UfqecAAB,TRUE,SmartBytes Cloud Core,01t26000009VUlpAAG,01s0C000000sxRwQAI,60,FALSE,Standard Price Book,SmartBytes Cloud Core
+01u2600000UfqfLAAR,TRUE,High Availability,01t26000009VUrlAAG,01s0C000000sxRwQAI,10,FALSE,Standard Price Book,High Availability
+01u2600000UfsqiAAB,TRUE,Quick Start Enablement,01t26000009VYGZAA4,01s0C000000sxRwQAI,5000,FALSE,Standard Price Book,Quick Start Enablement
+01u2600000UftW7AAJ,TRUE,Standard Success Plan,01t26000009VYXOAA4,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Standard Success Plan
+01u2600000Ufqg9AAB,TRUE,Data Protector,01t26000009VUlsAAG,01s0C000000sxRwQAI,5000,FALSE,Standard Price Book,Data Protector
+01u2600000UfqgEAAR,TRUE,Custom SKU,01t26000009VUsjAAG,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Custom SKU
+01u2600000UfqeXAAR,TRUE,SmartBytes Enterprise Core,01t26000009VUloAAG,01s0C000000sxRwQAI,80,FALSE,Standard Price Book,SmartBytes Enterprise Core
+01u2600000UfqcbAAB,TRUE,SmartBytes Bundle - Complete Solution,01t26000009VUlnAAG,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,SmartBytes Bundle - Complete Solution
+01u2600000UftYXAAZ,TRUE,Unlimited Data per Day,01t26000009VUlvAAG,01s0C000000sxRwQAI,10,FALSE,Standard Price Book,Unlimited Data per Day
+01u2600000UftYSAAZ,TRUE,Paid Data Plan,01t26000009VUluAAG,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Paid Data Plan
+01u2600000UftYTAAZ,TRUE,Data Navigator,01t26000009VUlyAAG,01s0C000000sxRwQAI,5,FALSE,Standard Price Book,Data Navigator
+01u2600000UfqfzAAB,TRUE,Event Management,01t26000009VUsZAAW,01s0C000000sxRwQAI,1000,FALSE,Standard Price Book,Event Management
+01u2600000UftZGAAZ,TRUE,Professional Services - Project Management Daily Rate,01t26000009VUtwAAG,01s0C000000sxRwQAI,500,FALSE,Standard Price Book,Professional Services - Project Management Daily Rate
+01u2600000UfqgJAAR,TRUE,SmartBytes Fundamentals Training,01t26000009VUsoAAG,01s0C000000sxRwQAI,550,FALSE,Standard Price Book,SmartBytes Fundamentals Training
+01u2600000UftZ6AAJ,TRUE,Professional Services Daily Rate,01t26000009VUtmAAG,01s0C000000sxRwQAI,300,FALSE,Standard Price Book,Professional Services Daily Rate
+01u2600000UfqgTAAR,TRUE,SmartBytes Essentials Training,01t26000009VUsyAAG,01s0C000000sxRwQAI,8500,FALSE,Standard Price Book,SmartBytes Essentials Training
+01u2600000UftXUAAZ,TRUE,Clustering,01t26000009VUs5AAG,01s0C000000sxRwQAI,15,FALSE,Standard Price Book,Clustering
+01u2600000UfqfVAAR,TRUE,Developer Environment,01t26000009VUrvAAG,01s0C000000sxRwQAI,35,FALSE,Standard Price Book,Developer Environment
+01u2600000Uft0YAAR,TRUE,SmartBytes Advisory Services,01t26000009VYT7AAO,01s0C000000sxRwQAI,2450,FALSE,Standard Price Book,SmartBytes Advisory Services
+01u2600000UfqehAAB,TRUE,Monthly Named Users,01t26000009VUlzAAG,01s0C000000sxRwQAI,10,FALSE,Standard Price Book,Monthly Named Users
+01u2600000UfqfkAAB,TRUE,Single Sign-On/LDAP,01t26000009VUsKAAW,01s0C000000sxRwQAI,5,FALSE,Standard Price Book,Single Sign-On/LDAP
+01u2600000UftYrAAJ,TRUE,Machine Learning,01t26000009VUlxAAG,01s0C000000sxRwQAI,5,FALSE,Standard Price Book,Machine Learning
+01u2600000UfqfGAAR,TRUE,Anomaly Detection,01t26000009VUrgAAG,01s0C000000sxRwQAI,25,FALSE,Standard Price Book,Anomaly Detection
+01u2600000UfsqdAAB,TRUE,Professional Service Hours (Consumption),01t26000009VYGCAA4,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Professional Service Hours (Consumption)
+01u2600000UfqfaAAB,TRUE,Distributed Search,01t26000009VUsAAAW,01s0C000000sxRwQAI,10,FALSE,Standard Price Book,Distributed Search
+01u2600000UftVdAAJ,TRUE,Enterprise Security Manager (ESM),01t26000009VZbyAAG,01s0C000000sxRwQAI,15000,FALSE,Standard Price Book,Enterprise Security Manager (ESM)
+01u2600000UftViAAJ,TRUE,SmartBytes Logger,01t26000009VZboAAG,01s0C000000sxRwQAI,3600,FALSE,Standard Price Book,SmartBytes Logger
+01u2600000UftYmAAJ,TRUE,Real-time Alerts,01t26000009VUlwAAG,01s0C000000sxRwQAI,10,FALSE,Standard Price Book,Real-time Alerts
+01u2600000UftZ1AAJ,TRUE,Professional Services Project,01t26000009VUthAAG,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Professional Services Project
+01u2600000UftXeAAJ,TRUE,Disaster Recovery,01t26000009VUs0AAG,01s0C000000sxRwQAI,10,FALSE,Standard Price Book,Disaster Recovery
+01u2600000Ufqg4AAB,TRUE,Network Operations Management,01t26000009VUseAAG,01s0C000000sxRwQAI,8000,FALSE,Standard Price Book,Network Operations Management
+01u2600000UftVsAAJ,TRUE,Security Orchestration & Response,01t26000009VZcDAAW,01s0C000000sxRwQAI,9600,FALSE,Standard Price Book,Security Orchestration & Response
+01u2600000UfqemAAB,TRUE,Monthly Logins,01t26000009VUm0AAG,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Monthly Logins
+01u2600000UfqfuAAB,TRUE,Application Monitoring,01t26000009VUsPAAW,01s0C000000sxRwQAI,7000,FALSE,Standard Price Book,Application Monitoring
+01u2600000UfsqTAAR,TRUE,Professional Services - Associate Consultant Daily Rate,01t26000009VYG2AAO,01s0C000000sxRwQAI,250,FALSE,Standard Price Book,Professional Services - Associate Consultant Daily Rate
+01u2600000UfqgdAAB,TRUE,Professional Services Scope of Work,01t26000009VUtDAAW,01s0C000000sxRwQAI,14000,FALSE,Standard Price Book,Professional Services Scope of Work
+01u2600000UftWCAAZ,TRUE,Premium Success Plan,01t26000009VYXdAAO,01s0C000000sxRwQAI,0,FALSE,Standard Price Book,Premium Success Plan

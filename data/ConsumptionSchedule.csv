@@ -1,0 +1,4 @@
+Id,BillingTerm,BillingTermUnit,Description,IsActive,MatchingAttribute,Name,RatingMethod,SBQQ__Category__c,SystemModstamp,Type,UnitOfMeasure,blng__BillingRule__c,blng__RevenueRecognitionRule__c,blng__TaxRule__c,blng__BillingRule__r.Name,blng__RevenueRecognitionRule__r.Name,blng__TaxRule__r.Name
+0Mh2600000000X0CAI,1,Year,,true,MB,Data Plan: MB Processed,Tier,Rates,2022-01-11T14:34:36.000+0000,Slab,MB,,,,,,
+0Mh2600000000X5CAI,1,Month,,true,Event,Data Plan: Events,Tier,Rates,2022-01-11T14:38:05.000+0000,Range,Event,,,,,,
+0Mh2600000000WvCAI,1,Month,,true,Login,Monthly Logins: 100 Logins + Overage,Tier,Rates,2022-01-11T14:28:26.000+0000,Slab,Login,a1T2600000AaOIFEA3,a2D260000017ey9EAA,a2L26000000iaOCEAY,Invoice - Usage,Order Based - 100% Upfront,Standard Tax
