@@ -1,4 +1,0 @@
-Id,BillingTerm,BillingTermUnit,Description,MatchingAttribute,Name,RatingMethod,SBQQ__Category__c,Type,UnitOfMeasure
-0Mh3G0000004Cx8SAE,1,Year,,MB,Data Plan: MB Processed,Tier,Rates,Slab,MB
-0Mh3G0000004Cx9SAE,1,Month,,Event,Data Plan: Events,Tier,Rates,Range,Event
-0Mh3G0000004CxASAU,1,Month,,Login,Monthly Logins: 100 Logins + Overage,Tier,Rates,Slab,Login

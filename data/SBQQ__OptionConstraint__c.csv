@@ -1,9 +1,0 @@
-Name,SBQQ__ConstrainedOption__c,SBQQ__ConstrainingOption__c,SBQQ__ConstrainedOption__r.Name,SBQQ__ConstrainingOption__r.Name,SBQQ__Active__c,SBQQ__CheckPriorPurchases__c,SBQQ__ConfiguredSKU__c,SBQQ__OptionConstraintGroup__c,SBQQ__Type__c,SBQQ__ConfiguredSKU__r.Name
-AL Exclusion: Paid Data constrains Unlimited Data,a0o3G000000371EQAQ,a0o3G000000370wQAA,,,TRUE,FALSE,01t3G000000sNNwQAM,,Exclusion,SmartBytes Bundle - Complete Solution
-AL Exclusion: Clustering constrains Distributed Search,a0o3G000000371CQAQ,a0o3G0000003711QAA,,,TRUE,FALSE,01t3G000000sNNwQAM,,Exclusion,SmartBytes Bundle - Complete Solution
-AL Exclusion: Fundamentals constrains Essentials Training,a0o3G0000003713QAA,a0o3G000000371HQAQ,,,TRUE,FALSE,01t3G000000sNNwQAM,,Exclusion,SmartBytes Bundle - Complete Solution
-AL Dependency: Disaster Recovery constrains Single Sign On,a0o3G0000003712QAA,a0o3G000000371BQAQ,,,TRUE,FALSE,01t3G000000sNNwQAM,SBAddOnDependency,Dependency,SmartBytes Bundle - Complete Solution
-AL Exclusion: Single Sign-On/LDAP excludes Distributed Search,a0o3G000000371CQAQ,a0o3G0000003712QAA,,,TRUE,FALSE,01t3G000000sNNwQAM,,Exclusion,SmartBytes Bundle - Complete Solution
-AL Exclusion: Single Sign-On/LDAP excludes Clustering,a0o3G0000003711QAA,a0o3G0000003712QAA,,,TRUE,FALSE,01t3G000000sNNwQAM,,Exclusion,SmartBytes Bundle - Complete Solution
-AL Dependency: Disaster Recovery constrains Distributed Search,a0o3G000000371CQAQ,a0o3G000000371BQAQ,,,TRUE,FALSE,01t3G000000sNNwQAM,SBAddOnDependency,Dependency,SmartBytes Bundle - Complete Solution
-AL Dependency: Disaster Recovery constrains Clustering,a0o3G0000003711QAA,a0o3G000000371BQAQ,,,TRUE,FALSE,01t3G000000sNNwQAM,,Dependency,SmartBytes Bundle - Complete Solution

@@ -1,6 +1,0 @@
-Id,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ErrorMessage__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupMessageField__c,SBQQ__LookupObject__c,SBQQ__LookupProductField__c,SBQQ__LookupRequiredField__c,SBQQ__LookupTypeField__c,SBQQ__Scope__c,SBQQ__Type__c
-a0p26000005cjoLAAQ,SB: Select Core Platform (Core Platform),TRUE,,All,,Always,,,SBQQ__LookupData__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,Product,Selection
-a0p26000005cjoGAAQ,SB: Filter Feature (Security Operations),TRUE,,All,,Always,,,,,,,Product,Filter
-a0p26000005cjf3AAA,SB: Recommend Real Time Alerts (Unlimited Data Plan),TRUE,,All,"Our customers who choose ""Unlimited Data Plan"" are more successful when they also purchase ""Real-Time Alerts""",Save,100,,,,,,Product,Alert
-a0p26000005cjo6AAA,SB: Require Real Time Alerts (Paid Data Plan),TRUE,,All,"Our customers who choose ""Paid Data Plan"" are required to purchase ""Real-Time Alerts""",Save,,,,,,,Product,Validation
-a0p26000005cjpEAAQ,SB: Select Add-Ons (Core Platform),TRUE,,All,,Always,,,SBQQ__LookupData__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,Product,Selection

@@ -1,6 +1,0 @@
-Id,Name,SBQQ__Category__c,SBQQ__Message__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,SBQQ__Value__c,SBQQ__Product__r.Name
-a0V26000002HyRNEA0,DATA-0004,Add-On,,01t3G000000sNO8QAM,FALSE,Show & Add,Cloud,High Availability
-a0V26000002HyR2EAK,DATA-0003,Add-On,,01t3G000000sNO9QAM,FALSE,Show & Add,Enterprise,Developer Environment
-a0V26000002HyOBEA0,DATA-0000,Core Platform,,01t3G000000sNNyQAM,FALSE,Show & Add,Cloud,SmartBytes Cloud Core
-a0V26000002HyOGEA0,DATA-0001,Core Platform,,01t3G000000sNNxQAM,FALSE,Show & Add,Enterprise,SmartBytes Enterprise Core
-a0V26000002HyQxEAK,DATA-0002,Add-On,,01t3G000000sNO7QAM,FALSE,Show & Add,Enterprise,Anomaly Detection
