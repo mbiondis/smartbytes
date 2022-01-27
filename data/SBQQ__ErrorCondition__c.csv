@@ -1,5 +1,5 @@
 Id,Name,SBQQ__FilterType__c,SBQQ__FilterValue__c,SBQQ__FilterVariable__c,SBQQ__Index__c,SBQQ__Operator__c,SBQQ__ParentRuleIsActive__c,SBQQ__RuleTargetsQuote__c,SBQQ__Rule__c,SBQQ__TestedAttribute__c,SBQQ__TestedField__c,SBQQ__TestedObject__c,SBQQ__TestedVariable__c,SBQQ__FilterVariable__r.Name,SBQQ__Rule__r.Name,SBQQ__TestedAttribute__r.Name,SBQQ__TestedVariable__r.Name
-a0I260000057YvWEAU,000000,Value,0,,,greater than,true,false,a0p26000005cjf3AAA,,,Product Option,a1C26000001aE2IEAU,,SB: Recommend Real Time Alerts (Unlimited Data Plan),,SmartBytes - Unlimited Data Plan is Included
-a0I260000057YvbEAE,000001,Value,0,,,equals,true,false,a0p26000005cjf3AAA,,,Product Option,a1C26000001aE2NEAU,,SB: Recommend Real Time Alerts (Unlimited Data Plan),,SmartBytes - Real Time Alerts is Included
-a0I260000057ZUQEA2,000003,Value,0,,,equals,true,false,a0p26000005cjo6AAA,,,Product Option,a1C26000001aE2NEAU,,SB: Require Real Time Alerts (Paid Data Plan),,SmartBytes - Real Time Alerts is Included
-a0I260000057ZUBEA2,000002,Value,0,,,greater than,true,false,a0p26000005cjo6AAA,,,Product Option,a1C26000001aE5lEAE,,SB: Require Real Time Alerts (Paid Data Plan),,SmartBytes - Paid Data Plan is Included
+a0I260000057YvWEAU,0,Value,0,,,greater than,TRUE,FALSE,a0p26000005cjf3AAA,,,,a1C26000001aE2IEAU,,SB: Recommend Real Time Alerts (Unlimited Data Plan),,SmartBytes - Unlimited Data Plan is Included
+a0I260000057YvbEAE,1,Value,0,,,equals,TRUE,FALSE,a0p26000005cjf3AAA,,,,a1C26000001aE2NEAU,,SB: Recommend Real Time Alerts (Unlimited Data Plan),,SmartBytes - Real Time Alerts is Included
+a0I260000057ZUQEA2,3,Value,0,,,equals,TRUE,FALSE,a0p26000005cjo6AAA,,,,a1C26000001aE2NEAU,,SB: Require Real Time Alerts (Paid Data Plan),,SmartBytes - Real Time Alerts is Included
+a0I260000057ZUBEA2,2,Value,0,,,greater than,TRUE,FALSE,a0p26000005cjo6AAA,,,,a1C26000001aE5lEAE,,SB: Require Real Time Alerts (Paid Data Plan),,SmartBytes - Paid Data Plan is Included

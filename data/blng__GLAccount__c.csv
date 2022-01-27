@@ -1,7 +1,7 @@
-Id,Name
-a1i26000001ZVSxAAO,Billing Credit Account - UK
-a1i26000001ZVSyAAO,Billing Debit Account - UK
-a1i26000001ZVT2AAO,Revenue Credit Account - UK
-a1i26000001ZVT7AAO,Revenue Debit Account - UK
-a1i26000001ZVTCAA4,Tax Credit Account - UK
-a1i26000001ZVTHAA4,Tax Debit Account - UK
+Id,Name,blng__Active__c,blng__GLAccountDescription__c,blng__GLAccountNumber__c,blng__Notes__c
+a1i26000001ZVTHAA4,Tax Debit Account - UK,true,,2002,
+a1i26000001ZVTCAA4,Tax Credit Account - UK,true,,2001,
+a1i26000001ZVT7AAO,Revenue Debit Account - UK,true,,1002,
+a1i26000001ZVT2AAO,Revenue Credit Account - UK,true,,1001,
+a1i26000001ZVSxAAO,Billing Credit Account - UK,true,,0001,
+a1i26000001ZVSyAAO,Billing Debit Account - UK,true,,0002,

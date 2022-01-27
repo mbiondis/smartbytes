@@ -8,4 +8,4 @@ IF( IF(NetUnitPrice__c = 0, 1, 1 - BLANKVALUE( SBQQ__UnitCost__c , 0) / (SBQQ__N
 IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >= ApprovalThreshold_L3__c, 3,
 IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >= ApprovalThreshold_L2__c, 2,
 IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >= ApprovalThreshold_L1__c, 1,0)))
-)",true,,true,a0c260000032FxAAAU,,,Quote Line,,2,Set Approval Level,
+)",TRUE,,TRUE,a0c260000032FxAAAU,,,Quote Line,,,Set Approval Level,

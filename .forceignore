@@ -44,6 +44,8 @@ package.xml
 #   that don't belong to the managed package
 **/objects/**/fields/SBQQ_*__c.*meta.xml
 **/objects/**/fields/blng_*__c.*meta.xml
+#   with the exception of
+!**/objects/SBQQ__PriceAction__c/fields/SBQQ__Field__c*
 
 #   e) Field Sets...
 !**/objects/**/fieldSets/**
@@ -56,9 +58,9 @@ package.xml
 **/featureParameters
 **/remoteSiteSettings
 
-# 5) Ignore Picklist Values
-#**/standardValueSets
-#**/globalValueSets
+# 5) Ignore Custom Tabs from the CPQ package
+**/tabs/SBQQ__*
 
-# 7) Ignore Report Types
-#**/reportTypes
+# 7) Ignore Report Types from the CPQ package
+**/reportTypes/SBQQ__
+

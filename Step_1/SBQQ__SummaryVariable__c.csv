@@ -1,0 +1,4 @@
+Id,Name,SBQQ__AggregateField__c,SBQQ__AggregateFunction__c,SBQQ__CombineWith__c,SBQQ__CompositeOperator__c,SBQQ__ConstraintField__c,SBQQ__FilterField__c,SBQQ__FilterValue__c,SBQQ__Operator__c,SBQQ__Scope__c,SBQQ__TargetObject__c,SBQQ__ValueElement__c,SBQQ__CombineWith__r.Id,SBQQ__CombineWith__r.Name
+a1C3G000000LvNAUA0,SmartBytes - Paid Data Plan is Included,Quantity,Sum,,,,Product Code,SB-ITA-PDP-DAT,equals,Quote,Product Option,,,
+a1C3G000000LvNBUA0,SmartBytes - Unlimited Data Plan is Included,Quantity,Sum,,,,Product Code,SB-ITA-UNL-DAT,equals,Quote,Product Option,,,
+a1C3G000000LvNCUA0,SmartBytes - Real Time Alerts is Included,Quantity,Sum,,,,Product Code,SB-ITA-REA-ALE,equals,Quote,Product Option,,,

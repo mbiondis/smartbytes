@@ -1,0 +1,15 @@
+{
+    "objects": [
+        
+        {
+            "query": "SELECT Id, Name, IsActive, BillingTerm, BillingTermUnit, Description, MatchingAttribute, RatingMethod, SBQQ__Category__c, Type, UnitOfMeasure FROM ConsumptionSchedule",
+            "operation": "Update",
+            "externalId": "Name"
+        },
+        {
+            "query": "SELECT Id, ConsumptionScheduleId, ProductId FROM ProductConsumptionSchedule",
+            "operation": "Insert",
+            "externalId": "Id"
+        }
+    ]
+}

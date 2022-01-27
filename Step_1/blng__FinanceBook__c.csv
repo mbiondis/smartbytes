@@ -1,0 +1,3 @@
+Id,Name,blng__Active__c,blng__FinancePeriodDuration__c,blng__Notes__c,blng__PeriodType__c
+a1r3G000000AxEOQA0,Revenue - UK,true,Monthly,,Revenue
+a1r3G000000AxEPQA0,Accounting - UK,true,Monthly,,Accounting

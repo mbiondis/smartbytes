@@ -57,5 +57,4 @@ package.json
 **/data/source
 **/data/target
 **/data/binary_cache
-
-**/permissionsets/SmartBytes*.xml
+**/data/MissingParentRecordsReport.csv

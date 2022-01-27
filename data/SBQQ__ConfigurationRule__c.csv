@@ -1,6 +1,6 @@
 Id,Name,SBQQ__Active__c,SBQQ__AscendingNestedLevel__c,SBQQ__DescendingActionNesting__c,SBQQ__DescendingNestedLevel__c,SBQQ__ProductFeature__c,SBQQ__ProductRule__c,SBQQ__Product__c,SBQQ__RuleEvaluationEvent__c,SBQQ__RuleType__c,SBQQ__ProductFeature__r.Name,SBQQ__ProductRule__r.Name,SBQQ__Product__r.Name
-a0626000007jCIdAAM,CR-000003,true,,,,a0n2600000Ah98EAAR,a0p26000005cjoLAAQ,01t26000009VUlnAAG,Always,Selection,SmartBytes Core Platform,SB: Select Core Platform (Core Platform),SmartBytes Bundle - Complete Solution
-a0626000007jCCwAAM,CR-000002,true,,,,a0n2600000Ah98BAAR,a0p26000005cjoGAAQ,01t26000009VUlnAAG,Always,Filter,Security Operations,SB: Filter Feature (Security Operations),SmartBytes Bundle - Complete Solution
-a0626000007jBQvAAM,CR-000000,true,,,,,a0p26000005cjf3AAA,01t26000009VUlnAAG,Save,Alert,,SB: Recommend Real Time Alerts (Unlimited Data Plan),SmartBytes Bundle - Complete Solution
-a0626000007jCCrAAM,CR-000001,true,,,,,a0p26000005cjo6AAA,01t26000009VUlnAAG,Save,Validation,,SB: Require Real Time Alerts (Paid Data Plan),SmartBytes Bundle - Complete Solution
-a0626000007jCVKAA2,CR-000004,true,,,,,a0p26000005cjpEAAQ,01t26000009VUlnAAG,Always,Selection,,SB: Select Add-Ons (Core Platform),SmartBytes Bundle - Complete Solution
+a0626000007jCIdAAM,CR-000003,TRUE,,,,a0n2600000Ah98EAAR,a0p26000005cjoLAAQ,01t3G000000sNNwQAM,Always,Selection,SmartBytes Core Platform,SB: Select Core Platform (Core Platform),SmartBytes Bundle - Complete Solution
+a0626000007jCCwAAM,CR-000002,TRUE,,,,a0n2600000Ah98BAAR,a0p26000005cjoGAAQ,01t3G000000sNNwQAM,Always,Filter,Security Operations,SB: Filter Feature (Security Operations),SmartBytes Bundle - Complete Solution
+a0626000007jBQvAAM,CR-000000,TRUE,,,,,a0p26000005cjf3AAA,01t3G000000sNNwQAM,Save,Alert,,SB: Recommend Real Time Alerts (Unlimited Data Plan),SmartBytes Bundle - Complete Solution
+a0626000007jCCrAAM,CR-000001,TRUE,,,,,a0p26000005cjo6AAA,01t3G000000sNNwQAM,Save,Validation,,SB: Require Real Time Alerts (Paid Data Plan),SmartBytes Bundle - Complete Solution
+a0626000007jCVKAA2,CR-000004,TRUE,,,,,a0p26000005cjpEAAQ,01t3G000000sNNwQAM,Always,Selection,,SB: Select Add-Ons (Core Platform),SmartBytes Bundle - Complete Solution

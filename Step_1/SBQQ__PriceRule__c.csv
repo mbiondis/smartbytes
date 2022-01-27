@@ -1,0 +1,2 @@
+Id,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ConfiguratorEvaluationEvent__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupObject__c,SBQQ__Product__c,SBQQ__TargetObject__c,SBQQ__Product__r.Id,SBQQ__Product__r.Name
+a0c3G0000040ovFQAQ,Set Approval Level,true,,All,,After Calculate,900,,,Calculator,,

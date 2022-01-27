@@ -1,18 +1,60 @@
-# Salesforce DX Project: Next Steps
+# Data Structure
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Sales
+- Account
+- Legal Entity
+- Finance Book
 
-## How Do You Plan to Deploy Your Changes?
+## CPQ
+### Product Structure
+- Product
+- Configuration Attribute
+- Product Attribute
+- Product Option
+- Product Feature
+- Option Constraint*
+### Product Pricing
+#### Standard
+- Pricebook
+- Pricebook Entry*
+- Consumption Schedule
+- Consumption Rate*
+- Product Consumption Schedule*
+#### CPQ
+- Cost*
+- Discount Schedule*
+- Discount Tier*
+- Block Price*
+- Price Dimension*
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+### Rules
+- Product Rule
+  - Error Condition*
+  - Product Action*
+  - Configuration Rule*
+- Price Rule
+  - Price Condition*
+  - Price Action*
+  - Lookup Query*
+- Custom Script*
+- Summary Variable
+- Lookup Data*
 
-## Configure Your Salesforce DX Project
+## Billing
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+### Rules
+- Invoice Plan
+- Billing Rule
+- Revenue Recognition Rule
+- Tax Rule
+- Billing Treatment
+- Revenue Recognition Treatment
+- Revenue Distribution Method
+- Tax Treatment
+- Tax Rate
+- Tax Integration
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+### General Ledger
+- GL Account
+- GL Rule
+- GL Treatment

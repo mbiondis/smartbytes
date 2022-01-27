@@ -1,0 +1,6 @@
+Id,Name,SBQQ__Category__c,SBQQ__Message__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,SBQQ__Value__c,SBQQ__Product__r.Name,SBQQ__Product__r.Id,$$SBQQ__Category__c$SBQQ__Value__c$SBQQ__Type__c$SBQQ__Product__r.Name
+a0V3G0000007ng7UAA,DATA-0000,Add-On,,01t3G000000sNO8QAM,false,Show & Add,Cloud,High Availability,01t3G000000sNO8QAM,Add-On;Cloud;Show & Add;High Availability
+a0V3G0000007ng8UAA,DATA-0001,Add-On,,01t3G000000sNO9QAM,false,Show & Add,Enterprise,Developer Environment,01t3G000000sNO9QAM,Add-On;Enterprise;Show & Add;Developer Environment
+a0V3G0000007ng9UAA,DATA-0002,Core Platform,,01t3G000000sNNyQAM,false,Show & Add,Cloud,SmartBytes Cloud Core,01t3G000000sNNyQAM,Core Platform;Cloud;Show & Add;SmartBytes Cloud Core
+a0V3G0000007ngAUAQ,DATA-0003,Core Platform,,01t3G000000sNNxQAM,false,Show & Add,Enterprise,SmartBytes Enterprise Core,01t3G000000sNNxQAM,Core Platform;Enterprise;Show & Add;SmartBytes Enterprise Core
+a0V3G0000007ngBUAQ,DATA-0004,Add-On,,01t3G000000sNO7QAM,false,Show & Add,Enterprise,Anomaly Detection,01t3G000000sNO7QAM,Add-On;Enterprise;Show & Add;Anomaly Detection
