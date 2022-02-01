@@ -53,8 +53,9 @@ package.json
 .prettierignore
 
 # Data
-**/data/logs
-**/data/source
-**/data/target
-**/data/binary_cache
-**/data/MissingParentRecordsReport.csv
+**/data/**/logs
+**/data/**/source
+**/data/**/target
+**/data/**/binary_cache
+**/data/**/MissingParentRecordsReport.csv
+**/data/Recovery

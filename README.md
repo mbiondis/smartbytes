@@ -47,14 +47,14 @@
 - Billing Rule
 - Revenue Recognition Rule
 - Tax Rule
-- Billing Treatment
-- Revenue Recognition Treatment
+- Billing Treatment*
+- Revenue Recognition Treatment*
 - Revenue Distribution Method
-- Tax Treatment
+- Tax Treatment*
 - Tax Rate
 - Tax Integration
 
 ### General Ledger
 - GL Account
 - GL Rule
-- GL Treatment
+- GL Treatment*

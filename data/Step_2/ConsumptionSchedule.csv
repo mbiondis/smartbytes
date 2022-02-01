@@ -1,4 +1,4 @@
-Id,Name,IsActive,BillingTerm,BillingTermUnit,Description,MatchingAttribute,RatingMethod,SBQQ__Category__c,Type,UnitOfMeasure
-0Mh3G0000004Cx8SAE,Data Plan: MB Processed,true,1,Year,,MB,Tier,Rates,Slab,MB
-0Mh3G0000004Cx9SAE,Data Plan: Events,true,1,Month,,Event,Tier,Rates,Range,Event
-0Mh3G0000004CxASAU,Monthly Logins: 100 Logins + Overage,true,1,Month,,Login,Tier,Rates,Slab,Login
+Id,Name,IsActive
+0Mh3G0000004Cx8SAE,Data Plan: MB Processed,TRUE
+0Mh3G0000004Cx9SAE,Data Plan: Events,TRUE
+0Mh3G0000004CxASAU,Monthly Logins: 100 Logins + Overage,TRUE

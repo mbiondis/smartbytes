@@ -2,7 +2,7 @@
     "objects": [
         
         {
-            "query": "SELECT Id, Name, IsActive, BillingTerm, BillingTermUnit, Description, MatchingAttribute, RatingMethod, SBQQ__Category__c, Type, UnitOfMeasure FROM ConsumptionSchedule",
+            "query": "SELECT Id, Name, IsActive FROM ConsumptionSchedule",
             "operation": "Update",
             "externalId": "Name"
         },
