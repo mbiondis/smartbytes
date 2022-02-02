@@ -1,0 +1,38 @@
+Name,SBQQ__Active__c,SBQQ__UnitCost__c,SBQQ__Product__r.Name
+COST-000000,true,0,SmartBytes Bundle - Complete Solution
+COST-000001,true,40,SmartBytes Enterprise Core
+COST-000002,true,12.5,Anomaly Detection
+COST-000003,true,0,Custom SKU
+COST-000004,true,30,SmartBytes Cloud Core
+COST-000005,true,2500,Data Protector
+COST-000006,true,0,Paid Data Plan
+COST-000007,true,5,Unlimited Data per Day
+COST-000008,true,5,Real-time Alerts
+COST-000009,true,2.5,Machine Learning
+COST-000010,true,2.5,Data Navigator
+COST-000011,true,5,Monthly Named Users
+COST-000012,true,0,Monthly Logins
+COST-000013,true,5,High Availability
+COST-000014,true,5,Disaster Recovery
+COST-000015,true,7.5,Clustering
+COST-000016,true,5,Distributed Search
+COST-000017,true,2.5,Single Sign-On/LDAP
+COST-000018,true,3500,Application Monitoring
+COST-000019,true,500,Event Management
+COST-000020,true,4000,Network Operations Management
+COST-000021,true,275,SmartBytes Fundamentals Training
+COST-000022,true,4250,SmartBytes Essentials Training
+COST-000023,true,7000,Professional Services Scope of Work
+COST-000024,true,0,Professional Services Project
+COST-000025,true,150,Professional Services Daily Rate
+COST-000026,true,250,Professional Services - Project Management Daily Rate
+COST-000027,true,125,Professional Services - Associate Consultant Daily Rate
+COST-000028,true,0,Professional Service Hours (Consumption)
+COST-000029,true,2500,Quick Start Enablement
+COST-000030,true,1225,SmartBytes Advisory Services
+COST-000031,true,0,Standard Success Plan
+COST-000032,true,0,Premium Success Plan
+COST-000033,true,1800,SmartBytes Logger
+COST-000034,true,7500,Enterprise Security Manager (ESM)
+COST-000035,true,4800,Security Orchestration & Response
+COST-000036,true,17.5,Developer Environment

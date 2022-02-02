@@ -1,0 +1,38 @@
+IsActive,Name,UnitPrice,Product2.Name,Pricebook2.Name
+true,Professional Services - Associate Consultant Daily Rate,250,Professional Services - Associate Consultant Daily Rate,Standard Price Book
+true,Professional Service Hours (Consumption),0,Professional Service Hours (Consumption),Standard Price Book
+true,Quick Start Enablement,5000,Quick Start Enablement,Standard Price Book
+true,SmartBytes Bundle - Complete Solution,0,SmartBytes Bundle - Complete Solution,Standard Price Book
+true,SmartBytes Enterprise Core,80,SmartBytes Enterprise Core,Standard Price Book
+true,SmartBytes Cloud Core,60,SmartBytes Cloud Core,Standard Price Book
+true,Data Protector,5000,Data Protector,Standard Price Book
+true,Paid Data Plan,0,Paid Data Plan,Standard Price Book
+true,Unlimited Data per Day,10,Unlimited Data per Day,Standard Price Book
+true,Real-time Alerts,10,Real-time Alerts,Standard Price Book
+true,Machine Learning,5,Machine Learning,Standard Price Book
+true,Data Navigator,5,Data Navigator,Standard Price Book
+true,Monthly Named Users,10,Monthly Named Users,Standard Price Book
+true,Monthly Logins,0,Monthly Logins,Standard Price Book
+true,Anomaly Detection,25,Anomaly Detection,Standard Price Book
+true,High Availability,10,High Availability,Standard Price Book
+true,Developer Environment,35,Developer Environment,Standard Price Book
+true,Disaster Recovery,10,Disaster Recovery,Standard Price Book
+true,Clustering,15,Clustering,Standard Price Book
+true,Distributed Search,10,Distributed Search,Standard Price Book
+true,Single Sign-On/LDAP,5,Single Sign-On/LDAP,Standard Price Book
+true,Application Monitoring,7000,Application Monitoring,Standard Price Book
+true,SmartBytes Advisory Services,2450,SmartBytes Advisory Services,Standard Price Book
+true,Standard Success Plan,0,Standard Success Plan,Standard Price Book
+true,Premium Success Plan,0,Premium Success Plan,Standard Price Book
+true,SmartBytes Logger,3600,SmartBytes Logger,Standard Price Book
+true,Enterprise Security Manager (ESM),15000,Enterprise Security Manager (ESM),Standard Price Book
+true,Security Orchestration & Response,9600,Security Orchestration & Response,Standard Price Book
+true,Network Operations Management,8000,Network Operations Management,Standard Price Book
+true,Event Management,1000,Event Management,Standard Price Book
+true,SmartBytes Fundamentals Training,550,SmartBytes Fundamentals Training,Standard Price Book
+true,SmartBytes Essentials Training,8500,SmartBytes Essentials Training,Standard Price Book
+true,Professional Services Scope of Work,14000,Professional Services Scope of Work,Standard Price Book
+true,Professional Services Project,0,Professional Services Project,Standard Price Book
+true,Professional Services Daily Rate,300,Professional Services Daily Rate,Standard Price Book
+true,Professional Services - Project Management Daily Rate,500,Professional Services - Project Management Daily Rate,Standard Price Book
+true,Custom SKU,0,Custom SKU,Standard Price Book

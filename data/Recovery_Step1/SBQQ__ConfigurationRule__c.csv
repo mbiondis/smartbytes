@@ -1,0 +1,6 @@
+Name,SBQQ__Active__c,SBQQ__AscendingNestedLevel__c,SBQQ__DescendingActionNesting__c,SBQQ__DescendingNestedLevel__c,SBQQ__RuleEvaluationEvent__c,SBQQ__RuleType__c,SBQQ__ProductFeature__r.Name,SBQQ__ProductRule__r.Name,SBQQ__Product__r.Name
+CR-000000,true,,,,Always,Selection,SmartBytes Core Platform,SB: Select Core Platform (Core Platform),SmartBytes Bundle - Complete Solution
+CR-000001,true,,,,Save,Alert,,SB: Recommend Real Time Alerts (Unlimited Data Plan),SmartBytes Bundle - Complete Solution
+CR-000002,true,,,,Save,Validation,,SB: Require Real Time Alerts (Paid Data Plan),SmartBytes Bundle - Complete Solution
+CR-000003,true,,,,Always,Selection,,SB: Select Add-Ons (Core Platform),SmartBytes Bundle - Complete Solution
+CR-000004,true,,,,Always,Filter,Security Operations,SB: Filter Feature (Security Operations),SmartBytes Bundle - Complete Solution
