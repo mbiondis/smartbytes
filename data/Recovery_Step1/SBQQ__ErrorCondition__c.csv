@@ -1,5 +1,0 @@
-Name,SBQQ__FilterType__c,SBQQ__FilterValue__c,SBQQ__Index__c,SBQQ__Operator__c,SBQQ__ParentRuleIsActive__c,SBQQ__RuleTargetsQuote__c,SBQQ__TestedField__c,SBQQ__TestedObject__c,SBQQ__FilterVariable__r.Name,SBQQ__Rule__r.Name,SBQQ__TestedAttribute__r.Id,SBQQ__TestedVariable__r.Name
-000000,Value,0,,greater than,true,false,,,,SB: Recommend Real Time Alerts (Unlimited Data Plan),,SmartBytes - Unlimited Data Plan is Included
-000001,Value,0,,equals,true,false,,,,SB: Recommend Real Time Alerts (Unlimited Data Plan),,SmartBytes - Real Time Alerts is Included
-000002,Value,0,,equals,true,false,,,,SB: Require Real Time Alerts (Paid Data Plan),,SmartBytes - Real Time Alerts is Included
-000003,Value,0,,greater than,true,false,,,,SB: Require Real Time Alerts (Paid Data Plan),,SmartBytes - Paid Data Plan is Included

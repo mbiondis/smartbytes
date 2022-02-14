@@ -1,4 +1,4 @@
-Id,Name,blng__Active__c,blng__Notes__c
-a1u3G0000003TleQAE,Revenue - Standard,true,
-a1u3G0000003TlfQAE,Tax - Standard,true,
-a1u3G0000003TldQAE,Billing - Standard,true,
+Name,blng__Active__c,blng__Notes__c
+Revenue - Standard,true,
+Tax - Standard,true,
+Billing - Standard,true,

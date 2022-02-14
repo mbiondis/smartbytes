@@ -1,6 +1,6 @@
-Id,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ErrorMessage__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupMessageField__c,SBQQ__LookupObject__c,SBQQ__LookupProductField__c,SBQQ__LookupRequiredField__c,SBQQ__LookupTypeField__c,SBQQ__Scope__c,SBQQ__Type__c
-a0p3G0000003zs4QAA,SB: Select Core Platform (Core Platform),true,,All,,Always,,,SBQQ__LookupData__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,Product,Selection
-a0p3G0000003zs5QAA,SB: Filter Feature (Security Operations),true,,All,,Always,,,,,,,Product,Filter
-a0p3G0000003zs6QAA,SB: Recommend Real Time Alerts (Unlimited Data Plan),true,,All,"Our customers who choose ""Unlimited Data Plan"" are more successful when they also purchase ""Real-Time Alerts""",Save,100,,,,,,Product,Alert
-a0p3G0000003zs7QAA,SB: Require Real Time Alerts (Paid Data Plan),true,,All,"Our customers who choose ""Paid Data Plan"" are required to purchase ""Real-Time Alerts""",Save,,,,,,,Product,Validation
-a0p3G0000003zs8QAA,SB: Select Add-Ons (Core Platform),true,,All,,Always,,,SBQQ__LookupData__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,Product,Selection
+Name,SBQQ__Type__c,SBQQ__Scope__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__Active__c,SBQQ__ConditionsMet__c,SBQQ__AdvancedCondition__c,SBQQ__ErrorMessage__c,SBQQ__LookupObject__c,SBQQ__LookupTypeField__c,SBQQ__LookupProductField__c,SBQQ__LookupRequiredField__c,SBQQ__LookupMessageField__c
+SB: Select Core Platform (Core Platform),Selection,Product,Always,,TRUE,All,,,SBQQ__LookupData__c,SBQQ__Type__c,SBQQ__Product__c,SBQQ__Required__c,
+SB: Filter Feature (Security Operations),Filter,Product,Always,,TRUE,All,,,,,,,
+SB: Recommend Real Time Alerts (Unlimited Data Plan),Alert,Product,Save,100,TRUE,All,,"Our customers who choose ""Unlimited Data Plan"" are more successful when they also purchase ""Real-Time Alerts""",,,,,
+SB: Require Real Time Alerts (Paid Data Plan),Validation,Product,Save,,TRUE,All,,"Our customers who choose ""Paid Data Plan"" are required to purchase ""Real-Time Alerts""",,,,,
+SB: Select Add-Ons (Core Platform),Selection,Product,Always,,TRUE,All,,,SBQQ__LookupData__c,SBQQ__Type__c,SBQQ__Product__c,SBQQ__Required__c,

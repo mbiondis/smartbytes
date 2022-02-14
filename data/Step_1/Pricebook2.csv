@@ -1,2 +1,2 @@
-Id,IsActive,IsStandard,Name
-01s3G000000XOOBQA4,TRUE,TRUE,Standard Price Book
+Name,IsActive,IsStandard
+Standard Price Book,true,true

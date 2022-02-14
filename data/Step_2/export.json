@@ -1,15 +1,23 @@
 {
+    "allOrNone": true,
+
+    "excludeIdsFromCSVFiles": true,
+
+    "simulationMode": true,
+
     "objects": [
         
         {
             "query": "SELECT Id, Name, IsActive FROM ConsumptionSchedule",
             "operation": "Update",
-            "externalId": "Name"
+            "externalId": "Name",
+            "excluded": false
         },
         {
             "query": "SELECT Id, ConsumptionScheduleId, ProductId FROM ProductConsumptionSchedule",
             "operation": "Insert",
-            "externalId": "Id"
+            "externalId": "Id",
+            "excluded": false
         }
     ]
 }

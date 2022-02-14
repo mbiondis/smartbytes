@@ -1,10 +1,10 @@
-Id,Name,ConsumptionScheduleId,Description,LowerBound,Price,PricingMethod,ProcessingOrder,UpperBound,ConsumptionSchedule.Id,ConsumptionSchedule.Name
-0Mo3G0000004EzSSAU,R-000009,0Mh3G0000004CxASAU,,101,5,PerUnit,2,,0Mh3G0000004CxASAU,Monthly Logins: 100 Logins + Overage
-0Mo3G0000004EzDSAU,R-000006,0Mh3G0000004Cx8SAE,,1001,0.04,PerUnit,2,5001,0Mh3G0000004Cx8SAE,Data Plan: MB Processed
-0Mo3G0000004EzISAU,R-000007,0Mh3G0000004Cx8SAE,,5001,0.02,PerUnit,3,,0Mh3G0000004Cx8SAE,Data Plan: MB Processed
-0Mo3G0000004Ez3SAE,R-000004,0Mh3G0000004Cx9SAE,,2001,0.01,PerUnit,4,,0Mh3G0000004Cx9SAE,Data Plan: Events
-0Mo3G0000004EytSAE,R-000002,0Mh3G0000004Cx9SAE,,101,0.05,PerUnit,2,501,0Mh3G0000004Cx9SAE,Data Plan: Events
-0Mo3G0000004EyySAE,R-000003,0Mh3G0000004Cx9SAE,,501,0.02,PerUnit,3,2001,0Mh3G0000004Cx9SAE,Data Plan: Events
-0Mo3G0000004Ez8SAE,R-000005,0Mh3G0000004Cx8SAE,,1,0.05,PerUnit,1,1001,0Mh3G0000004Cx8SAE,Data Plan: MB Processed
-0Mo3G0000004EyoSAE,R-000001,0Mh3G0000004Cx9SAE,,1,0.1,PerUnit,1,101,0Mh3G0000004Cx9SAE,Data Plan: Events
-0Mo3G0000004EzNSAU,R-000008,0Mh3G0000004CxASAU,,1,0,FlatFee,1,101,0Mh3G0000004CxASAU,Monthly Logins: 100 Logins + Overage
+ConsumptionSchedule.Name,ProcessingOrder,PricingMethod,LowerBound,UpperBound,Price,Description,$$ConsumptionSchedule.Name$ProcessingOrder$LowerBound$UpperBound$PricingMethod$Price
+Data Plan: MB Processed,1,PerUnit,1,1001,0.05,,Data Plan: MB Processed;1;1;1001;PerUnit;0.05
+Data Plan: MB Processed,2,PerUnit,1001,5001,0.04,,Data Plan: MB Processed;2;1001;5001;PerUnit;0.04
+Data Plan: MB Processed,3,PerUnit,5001,,0.02,,Data Plan: MB Processed;3;5001;PerUnit;0.02
+Data Plan: Events,1,PerUnit,1,101,0.1,,Data Plan: Events;1;1;101;PerUnit;0.1
+Data Plan: Events,2,PerUnit,101,501,0.05,,Data Plan: Events;2;101;501;PerUnit;0.05
+Data Plan: Events,3,PerUnit,501,2001,0.02,,Data Plan: Events;3;501;2001;PerUnit;0.02
+Data Plan: Events,4,PerUnit,2001,,0.01,,Data Plan: Events;4;2001;PerUnit;0.01
+Monthly Logins: 100 Logins + Overage,1,FlatFee,1,101,0,,Monthly Logins: 100 Logins + Overage;1;1;101;FlatFee
+Monthly Logins: 100 Logins + Overage,2,PerUnit,101,,5,,Monthly Logins: 100 Logins + Overage;2;101;PerUnit;5

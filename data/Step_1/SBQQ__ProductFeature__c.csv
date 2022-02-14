@@ -1,16 +1,16 @@
-Id,Name,SBQQ__Category__c,SBQQ__ConfigurationFieldSet__c,SBQQ__ConfiguredSKU__c,SBQQ__DiscountSchedule__c,SBQQ__DynamicProductFilterFieldSet__c,SBQQ__DynamicProductLookupFieldSet__c,SBQQ__MaxOptionCount__c,SBQQ__MinOptionCount__c,SBQQ__Number__c,SBQQ__OptionSelectionMethod__c,SBQQ__ConfiguredSKU__r.Id,SBQQ__ConfiguredSKU__r.Name,SBQQ__DiscountSchedule__r.Id,SBQQ__DiscountSchedule__r.Name
-a0n3G00000030FZQAY,Solution Architecture,,,01t3G000000sNOLQA2,,,,,0,200,,01t3G000000sNOLQA2,Professional Services Project,,
-a0n3G00000030FaQAI,Security Operations,Security,,01t3G000000sNNwQAM,,,,,0,2100,Dynamic,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FbQAI,Advanced IT Tools,IT Operations,,01t3G000000sNNwQAM,,,,,0,3200,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FcQAI,Ongoing Professional Services,Services,,01t3G000000sNNwQAM,,,,,0,4300,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FdQAI,SmartBytes Core Platform,Core Platform,,01t3G000000sNNwQAM,,,,,0,1100,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FeQAI,Advisory Services,Services,,01t3G000000sNNwQAM,,,,,0,4400,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FfQAI,Professional Services Packages,Services,,01t3G000000sNNwQAM,,,,1,1,4200,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FgQAI,IT Operations,IT Operations,,01t3G000000sNNwQAM,,,,,2,3100,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FhQAI,Custom SKU,IT Operations,,01t3G000000sNNwQAM,,,,,0,3300,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FiQAI,Training/Education,Services,,01t3G000000sNNwQAM,,,,,0,4100,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FjQAI,Add-Ons,Core Platform,,01t3G000000sNNwQAM,,,,,0,1300,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FkQAI,User Licenses,Core Platform,,01t3G000000sNNwQAM,,,,1,1,1200,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FlQAI,Success Plan,Support,,01t3G000000sNNwQAM,,,,1,1,5100,,01t3G000000sNNwQAM,SmartBytes Bundle - Complete Solution,,
-a0n3G00000030FmQAI,Engineering Resources,,,01t3G000000sNOLQA2,,,,,0,300,,01t3G000000sNOLQA2,Professional Services Project,,
-a0n3G00000030FnQAI,Project Management,,,01t3G000000sNOLQA2,,,,,0,100,,01t3G000000sNOLQA2,Professional Services Project,,
+SBQQ__ConfiguredSKU__r.Name,Name,SBQQ__Category__c,SBQQ__Number__c,SBQQ__MinOptionCount__c,SBQQ__MaxOptionCount__c,SBQQ__OptionSelectionMethod__c,SBQQ__ConfigurationFieldSet__c,SBQQ__DynamicProductFilterFieldSet__c,SBQQ__DynamicProductLookupFieldSet__c,SBQQ__DiscountSchedule__r.Name,$$SBQQ__ConfiguredSKU__r.Name$Name
+Professional Services Project,Solution Architecture,,200,0,,,,,,,Professional Services Project;Solution Architecture
+SmartBytes Bundle - Complete Solution,Security Operations,Security,2100,0,,Dynamic,,,,,SmartBytes Bundle - Complete Solution;Security Operations
+SmartBytes Bundle - Complete Solution,Advanced IT Tools,IT Operations,3200,0,,,,,,,SmartBytes Bundle - Complete Solution;Advanced IT Tools
+SmartBytes Bundle - Complete Solution,Ongoing Professional Services,Services,4300,0,,,,,,,SmartBytes Bundle - Complete Solution;Ongoing Professional Services
+SmartBytes Bundle - Complete Solution,SmartBytes Core Platform,Core Platform,1100,0,,,,,,,SmartBytes Bundle - Complete Solution;SmartBytes Core Platform
+SmartBytes Bundle - Complete Solution,Advisory Services,Services,4400,0,,,,,,,SmartBytes Bundle - Complete Solution;Advisory Services
+SmartBytes Bundle - Complete Solution,Professional Services Packages,Services,4200,1,1,,,,,,SmartBytes Bundle - Complete Solution;Professional Services Packages
+SmartBytes Bundle - Complete Solution,IT Operations,IT Operations,3100,2,,,,,,,SmartBytes Bundle - Complete Solution;IT Operations
+SmartBytes Bundle - Complete Solution,Custom SKU,IT Operations,3300,0,,,,,,,SmartBytes Bundle - Complete Solution;Custom SKU
+SmartBytes Bundle - Complete Solution,Training/Education,Services,4100,0,,,,,,,SmartBytes Bundle - Complete Solution;Training/Education
+SmartBytes Bundle - Complete Solution,Add-Ons,Core Platform,1300,0,,,,,,,SmartBytes Bundle - Complete Solution;Add-Ons
+SmartBytes Bundle - Complete Solution,User Licenses,Core Platform,1200,1,1,,,,,,SmartBytes Bundle - Complete Solution;User Licenses
+SmartBytes Bundle - Complete Solution,Success Plan,Support,5100,1,1,,,,,,SmartBytes Bundle - Complete Solution;Success Plan
+Professional Services Project,Engineering Resources,,300,0,,,,,,,Professional Services Project;Engineering Resources
+Professional Services Project,Project Management,,100,0,,,,,,,Professional Services Project;Project Management

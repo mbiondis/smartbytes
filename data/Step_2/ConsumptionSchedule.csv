@@ -1,4 +1,4 @@
-Id,Name,IsActive
-0Mh3G0000004Cx8SAE,Data Plan: MB Processed,TRUE
-0Mh3G0000004Cx9SAE,Data Plan: Events,TRUE
-0Mh3G0000004CxASAU,Monthly Logins: 100 Logins + Overage,TRUE
+Name,BillingTerm,BillingTermUnit,Description,MatchingAttribute,RatingMethod,SBQQ__Category__c,Type,UnitOfMeasure,IsActive
+Data Plan: MB Processed,1,Year,,MB,Tier,MB,Slab,MB,TRUE
+Data Plan: Events,1,Month,,Event,Tier,Events,Range,Event,TRUE
+Monthly Logins: 100 Logins + Overage,1,Month,,Login,Tier,Logins,Slab,Login,TRUE

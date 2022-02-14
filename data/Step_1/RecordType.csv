@@ -1,3 +1,3 @@
-Id,$$DeveloperName$NamespacePrefix$SobjectType
-0123G000000fS6ZQAU,Configuration_Attribute;SBQQ;SBQQ__ConfigurationAttribute__c
-0123G000000fS6aQAE,Global_Attribute;SBQQ;SBQQ__ConfigurationAttribute__c
+Name,Description,NamespacePrefix,SobjectType,DeveloperName,IsActive,$$NamespacePrefix$DeveloperName$SobjectType
+Configuration Attribute,Configuration Attribute associated to a product,SBQQ,SBQQ__ConfigurationAttribute__c,Configuration_Attribute,true,SBQQ;Configuration_Attribute;SBQQ__ConfigurationAttribute__c
+Global Attribute,Definition of an Attribute Item,SBQQ,SBQQ__ConfigurationAttribute__c,Global_Attribute,true,SBQQ;Global_Attribute;SBQQ__ConfigurationAttribute__c

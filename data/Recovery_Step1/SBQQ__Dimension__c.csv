@@ -1,2 +1,0 @@
-Name,SBQQ__CostEditable__c,SBQQ__DefaultQuantity__c,SBQQ__NonDiscountable__c,SBQQ__NonPartnerDiscountable__c,SBQQ__PriceEditable__c,SBQQ__QuantityEditable__c,SBQQ__QuantityScale__c,SBQQ__Taxable__c,SBQQ__Type__c,SBQQ__UnitPrice__c,SBQQ__Product__r.Name,SBQQ__DiscountSchedule__r.Name,SBQQ__PriceBook__r.Name,SBQQ__TermDiscountSchedule__r.Name,$$SBQQ__Product__r.Name$Name
-Yearly,Inherit,,Inherit,Inherit,Inherit,Inherit,,Inherit,Year,,SmartBytes Cloud Core,,,,SmartBytes Cloud Core;Yearly

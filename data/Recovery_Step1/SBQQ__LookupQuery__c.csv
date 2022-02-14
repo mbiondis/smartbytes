@@ -1,5 +1,0 @@
-Name,SBQQ__LookupField__c,SBQQ__MatchType__c,SBQQ__Operator__c,SBQQ__ParentRuleIsActive__c,SBQQ__RuleLookupObject__c,SBQQ__RuleTargetsCalculator__c,SBQQ__TestedField__c,SBQQ__TestedObject__c,SBQQ__TestedValue__c,SBQQ__PriceRule2__r.Name,SBQQ__ProductRule__r.Name,SBQQ__TestedConfigurationAttribute__r.Name
-0,SBQQ__Category__c,Static Value,equals,true,,false,,,Core Platform,,SB: Select Core Platform (Core Platform),
-1,SBQQ__Category__c,Static Value,equals,true,,false,,,Add-On,,SB: Select Add-Ons (Core Platform),
-2,SBQQ__Value__c,Configuration Attribute Value,equals,true,,false,,,,,SB: Select Core Platform (Core Platform),Platform
-3,SBQQ__Value__c,Configuration Attribute Value,equals,true,,false,,,,,SB: Select Add-Ons (Core Platform),Platform

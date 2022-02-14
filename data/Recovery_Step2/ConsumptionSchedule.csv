@@ -1,4 +1,0 @@
-Name,BillingTerm,BillingTermUnit,Description,MatchingAttribute,RatingMethod,SBQQ__Category__c,Type,UnitOfMeasure,IsActive
-Data Plan: MB Processed,1,Year,,MB,Tier,MB,Slab,MB,TRUE
-Data Plan: Events,1,Month,,Event,Tier,Events,Range,Event,TRUE
-Monthly Logins: 100 Logins + Overage,1,Month,,Login,Tier,Logins,Slab,Login,TRUE
