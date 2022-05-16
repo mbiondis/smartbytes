@@ -52,10 +52,26 @@ package.json
 # Styles
 .prettierignore
 
-# Data
-**/data/**/logs
-**/data/**/source
-**/data/**/target
-**/data/**/binary_cache
-**/data/**/MissingParentRecordsReport.csv
-**/data/Recovery
+# Data Migration
+## Steps
+data/step-*/csv/**
+!data/step-*/csv/*.csv
+!data/step-*/csv/export.json
+data/extraction
+
+## Recipes
+!data/**/recipe
+!data/**/recipe/**
+##
+data/issue_*/**
+
+# CumulusCI
+datasets
+orgs
+robot
+cumulusci.yml
+package-lock.json
+recipe.js
+recipe.ts
+.github
+.cci
