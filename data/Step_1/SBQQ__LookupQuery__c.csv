@@ -1,5 +1,0 @@
-Name,SBQQ__LookupField__c,SBQQ__MatchType__c,SBQQ__Operator__c,SBQQ__TestedConfigurationAttribute__r.Name,SBQQ__TestedField__c,SBQQ__TestedObject__c,SBQQ__TestedValue__c,SBQQ__ProductRule__r.Name,SBQQ__PriceRule2__r.Name,$$SBQQ__ProductRule__r.Name$SBQQ__PriceRule2__r.Name$SBQQ__Operator__c$SBQQ__LookupField__c
-2,SBQQ__Value__c,Configuration Attribute Value,equals,Platform,,,,SB: Select Core Platform (Core Platform),,SB: Select Core Platform (Core Platform);equals;SBQQ__Value__c
-3,SBQQ__Value__c,Configuration Attribute Value,equals,Platform,,,,SB: Select Add-Ons (Core Platform),,SB: Select Add-Ons (Core Platform);equals;SBQQ__Value__c
-0,SBQQ__Category__c,Static Value,equals,,,,Core Platform,SB: Select Core Platform (Core Platform),,SB: Select Core Platform (Core Platform);equals;SBQQ__Category__c
-1,SBQQ__Category__c,Static Value,equals,,,,Add-On,SB: Select Add-Ons (Core Platform),,SB: Select Add-Ons (Core Platform);equals;SBQQ__Category__c

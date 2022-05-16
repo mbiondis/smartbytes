@@ -1,0 +1,6 @@
+SBQQ__Category__c,SBQQ__Value__c,SBQQ__Type__c,SBQQ__Product__r.Name,SBQQ__Required__c,SBQQ__Message__c,$$SBQQ__Category__c$SBQQ__Value__c$SBQQ__Type__c$SBQQ__Product__r.Name
+Add-On,Cloud,Show & Add,High Availability,FALSE,,Add-On;Cloud;Show & Add;High Availability
+Add-On,Enterprise,Show & Add,Developer Environment,FALSE,,Add-On;Enterprise;Show & Add;Developer Environment
+Core Platform,Cloud,Show & Add,SmartBytes Cloud Core,FALSE,,Core Platform;Cloud;Show & Add;SmartBytes Cloud Core
+Core Platform,Enterprise,Show & Add,SmartBytes Enterprise Core,FALSE,,Core Platform;Enterprise;Show & Add;SmartBytes Enterprise Core
+Add-On,Enterprise,Show & Add,Anomaly Detection,FALSE,,Add-On;Enterprise;Show & Add;Anomaly Detection

@@ -1,0 +1,46 @@
+SBQQ__Product__r.Name,SBQQ__UnitCost__c,SBQQ__Active__c,$$SBQQ__Product__r.Name$SBQQ__UnitCost__c
+SmartBytes Bundle - Complete Solution,0,TRUE,SmartBytes Bundle - Complete Solution
+SmartBytes Enterprise Core,40,TRUE,SmartBytes Enterprise Core;40
+Anomaly Detection,12.5,TRUE,Anomaly Detection;12.5
+Custom SKU,0,TRUE,Custom SKU
+SmartBytes Cloud Core,30,TRUE,SmartBytes Cloud Core;30
+Data Protector,2500,TRUE,Data Protector;2500
+Paid Data Plan,0,TRUE,Paid Data Plan
+Unlimited Data per Day,5,TRUE,Unlimited Data per Day;5
+Real-time Alerts,5,TRUE,Real-time Alerts;5
+Machine Learning,2.5,TRUE,Machine Learning;2.5
+Data Navigator,2.5,TRUE,Data Navigator;2.5
+Monthly Named Users,5,TRUE,Monthly Named Users;5
+Monthly Logins,0,TRUE,Monthly Logins
+High Availability,5,TRUE,High Availability;5
+Disaster Recovery,5,TRUE,Disaster Recovery;5
+Clustering,7.5,TRUE,Clustering;7.5
+Distributed Search,5,TRUE,Distributed Search;5
+Single Sign-On/LDAP,2.5,TRUE,Single Sign-On/LDAP;2.5
+Application Monitoring,3500,TRUE,Application Monitoring;3500
+Event Management,500,TRUE,Event Management;500
+Network Operations Management,4000,TRUE,Network Operations Management;4000
+SmartBytes Fundamentals Training,275,TRUE,SmartBytes Fundamentals Training;275
+SmartBytes Essentials Training,4250,TRUE,SmartBytes Essentials Training;4250
+Professional Services Scope of Work,7000,TRUE,Professional Services Scope of Work;7000
+Professional Services Project,0,TRUE,Professional Services Project
+Professional Services Daily Rate,150,TRUE,Professional Services Daily Rate;150
+Professional Services - Project Management Daily Rate,250,TRUE,Professional Services - Project Management Daily Rate;250
+Professional Services - Associate Consultant Daily Rate,125,TRUE,Professional Services - Associate Consultant Daily Rate;125
+Professional Service Hours (Consumption),0,TRUE,Professional Service Hours (Consumption)
+Quick Start Enablement,2500,TRUE,Quick Start Enablement;2500
+SmartBytes Advisory Services,1225,TRUE,SmartBytes Advisory Services;1225
+Standard Success Plan,0,TRUE,Standard Success Plan
+Premium Success Plan,0,TRUE,Premium Success Plan
+SmartBytes Logger,1800,TRUE,SmartBytes Logger;1800
+Enterprise Security Manager (ESM),7500,TRUE,Enterprise Security Manager (ESM);7500
+Security Orchestration & Response,4800,TRUE,Security Orchestration & Response;4800
+Developer Environment,17.5,TRUE,Developer Environment;17.5
+Solution Architect,165,TRUE,Solution Architect;165
+Project Manager,75,TRUE,Project Manager;75
+Integration Specialist Engineer,85,TRUE,Integration Specialist Engineer;85
+Program Director,150,TRUE,Program Director;150
+Implementation Engineer,40,TRUE,Implementation Engineer;40
+Quality Assurance Engineer,60,TRUE,Quality Assurance Engineer;60
+Data Normalization Expert,95,TRUE,Data Normalization Expert;95
+Module Extension Engineer,100,TRUE,Module Extension Engineer;100
